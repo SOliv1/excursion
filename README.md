@@ -13,3 +13,5 @@ html:5
 And hit Tab
 
 Voila, HTML Template in your favorite code editor!
+
+python -m http.server --bind 127.0.0.1 8000
