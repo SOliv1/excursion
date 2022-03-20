@@ -1,5 +1,7 @@
 # excursion
 
+[![pages-build-deployment](https://github.com/SOliv1/excursion/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/excursion/actions/workflows/pages/pages-build-deployment)
+
 -# excursion
 
 ## shortcut code for HTML boiler plate = type ! then hit tab
